@@ -1,3 +1,1 @@
-﻿namespace Composite
-{
-}
+﻿namespace Composite;

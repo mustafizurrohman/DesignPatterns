@@ -1,4 +1,1 @@
-﻿namespace FactoryMethod
-{
-   
-}
+﻿namespace FactoryMethod;

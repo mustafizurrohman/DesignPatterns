@@ -1,3 +1,1 @@
-﻿namespace Observer
-{
-}
+﻿namespace Observer;

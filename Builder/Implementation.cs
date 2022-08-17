@@ -1,4 +1,1 @@
-﻿namespace BuilderPattern
-{
-
-}
+﻿namespace BuilderPattern;

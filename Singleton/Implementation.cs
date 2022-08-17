@@ -1,4 +1,1 @@
-﻿namespace Singleton
-{
-  
-}
+﻿namespace Singleton;

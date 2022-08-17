@@ -1,3 +1,1 @@
-﻿namespace ChainOfResponsibility
-{
-}
+﻿namespace ChainOfResponsibility;

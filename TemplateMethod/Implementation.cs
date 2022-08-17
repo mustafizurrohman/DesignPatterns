@@ -1,3 +1,1 @@
-﻿namespace TemplateMethod
-{ 
-}
+﻿namespace TemplateMethod;
