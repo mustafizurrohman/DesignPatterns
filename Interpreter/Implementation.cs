@@ -1,3 +1,1 @@
-﻿namespace Interpreter
-{
-}
+﻿namespace Interpreter;

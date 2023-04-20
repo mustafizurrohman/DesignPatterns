@@ -1,3 +1,1 @@
-﻿namespace Bridge
-{
-}
+﻿namespace Bridge;

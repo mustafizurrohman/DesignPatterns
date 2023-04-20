@@ -1,3 +1,1 @@
-﻿namespace Facade
-{
-}
+﻿namespace Facade;

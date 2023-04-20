@@ -1,4 +1,1 @@
-﻿namespace Prototype
-{
-
-}
+﻿namespace Prototype;

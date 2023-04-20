@@ -1,3 +1,1 @@
-﻿namespace Command
-{
-} 
+﻿namespace Command;

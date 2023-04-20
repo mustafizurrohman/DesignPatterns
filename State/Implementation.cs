@@ -1,3 +1,1 @@
-﻿namespace State
-{
-}
+﻿namespace State;

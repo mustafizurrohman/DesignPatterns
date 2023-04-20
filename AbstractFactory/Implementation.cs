@@ -1,4 +1,1 @@
-﻿namespace AbstractFactory
-{
-   
-}
+﻿namespace AbstractFactory;

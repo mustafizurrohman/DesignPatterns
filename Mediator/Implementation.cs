@@ -1,4 +1,1 @@
-﻿namespace Mediator
-{
-}
- 
+﻿namespace Mediator;
