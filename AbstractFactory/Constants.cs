@@ -2,7 +2,7 @@
 
 public static class Constants
 {
-    public static readonly string France = "France";
-    public static readonly string Belgium = "Belgium";
+    public const string France = "France";
+    public const string Belgium = "Belgium";
 }
 
